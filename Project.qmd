@@ -12,6 +12,11 @@ This project involves creating an interactive game that utilizes hand detection 
 The objectives of this game is to encourage students that is trying to enter Nanyang Polytechnic to have fun while learning about hand detection technology. The game aims to provide an engaging experience that showcases the capabilities of hand detection systems, while also promoting the different courses that is available in the IT sector in Nanyang Polytechnic.
 
 # Technologies Used
-We used python with C sharp and unity to create the game. The hand detection system is implemented using libraries such as OpenCV and MediaPipe, which provide robust tools for real-time hand tracking and gesture recognition.
+We used python with C sharp and unity to create the game. The hand detection system is implemented using libraries such as OpenCV and MediaPipe, which provide robust tools for real-time hand tracking and gesture recognition. 
+
+# How to Play the Game
+1. Use your hand to control the game character.
+2. Open your palm first then make a fist to make the snowball hit the target.
+3. Once snowball hit the target, you will move to the next stage which shows different courses available in Nanyang Polytechnic.
 
 ![Project Screenshot](images/gamedashboard.png)

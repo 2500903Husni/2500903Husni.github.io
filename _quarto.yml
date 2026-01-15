@@ -6,7 +6,7 @@ website:
   title: "Husni Website"
   favicon: favicon.png
   navbar:
-    logo: logo.png
+    logo: images/sit_logo_mark.png
     left:
       - href: index.qmd
         text: Home
@@ -19,7 +19,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: simplex
     css: styles.css
     toc: true
     toc-depth: 3
