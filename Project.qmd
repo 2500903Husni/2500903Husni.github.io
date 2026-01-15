@@ -1,0 +1,17 @@
+---
+title: "FYP Project"
+---
+
+## Project Title
+* Hand Detection System *
+
+# Overview 
+This project involves creating an interactive game that utilizes hand detection technology. The game is designed to respond to hand movements, allowing players to interact with the game environment in a more immersive way. The hand detection system is built using computer vision techniques, enabling the game to recognize and track hand gestures in real-time. 
+
+# Objectives
+The objectives of this game is to encourage students that is trying to enter Nanyang Polytechnic to have fun while learning about hand detection technology. The game aims to provide an engaging experience that showcases the capabilities of hand detection systems, while also promoting the different courses that is available in the IT sector in Nanyang Polytechnic.
+
+# Technologies Used
+We used python with C sharp and unity to create the game. The hand detection system is implemented using libraries such as OpenCV and MediaPipe, which provide robust tools for real-time hand tracking and gesture recognition.
+
+![Project Screenshot](images/gamedashboard.png)

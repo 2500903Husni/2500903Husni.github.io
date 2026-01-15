@@ -1,11 +1,20 @@
 ---
-title: "temp_website"
+title: "HOME"
 ---
 
-This is a Quarto website.
+## Hi, I'm Husni
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm a student in Singapore Institute Technology (SIT) persuing in Bachelor of Science in Applied Computing specialisation in Financial Technology.
 
-```{r}
-1 + 1
-```
+My hobby is lifting weights and I'm a big fan of listening to music while lifting weights.
+
+
+### What you’ll find here
+- **Project**: A project I worked on during my final year in polytechnic 
+- **Data Visualization**: Visualisation of Nvidia Stock Price vs Simple Moving Average using Python's Matplotlib and Pandas libraries
+- **Reflection**: My experience using GenAI tools for this assessment
+
+![My photo](images/unnamed.jpg)
+
+
+

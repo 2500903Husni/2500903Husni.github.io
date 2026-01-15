@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "HOME",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I’m a student in Singapore Institute Technology (SIT) persuing in Bachelor of Science in Applied Computing specialisation in Financial Technology.\nMy hobby is lifting weights and I’m a big fan of listening to music while lifting weights.\n\n\n\nProject: a project I worked on (before entering SIT / or any project you want)\nData Visualization: one chart with explanation + story behind it\nReflection: My experience using GenAI tools for this assessment\n\n\n\n\nMy photo"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,75 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#hi-im-husni",
+    "href": "index.html#hi-im-husni",
+    "title": "HOME",
+    "section": "",
+    "text": "I’m a student in Singapore Institute Technology (SIT) persuing in Bachelor of Science in Applied Computing specialisation in Financial Technology.\nMy hobby is lifting weights and I’m a big fan of listening to music while lifting weights.\n\n\n\nProject: a project I worked on (before entering SIT / or any project you want)\nData Visualization: one chart with explanation + story behind it\nReflection: My experience using GenAI tools for this assessment\n\n\n\n\nMy photo"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on the use of GenAI Tools",
+    "section": "",
+    "text": "For this assessment, I utilized several GenAI tools to enhance my work and streamline the process. The primary tools I used were ChatGPT for generating written content. I used ChatGPT to help me draft explanations, stories, and rationales for my data visualization and project descriptions. The AI’s ability to generate coherent and contextually relevant text significantly aided in articulating my thoughts clearly and effectively."
+  },
+  {
+    "objectID": "reflection.html#genai-tools-used",
+    "href": "reflection.html#genai-tools-used",
+    "title": "Reflection on the use of GenAI Tools",
+    "section": "",
+    "text": "For this assessment, I utilized several GenAI tools to enhance my work and streamline the process. The primary tools I used were ChatGPT for generating written content. I used ChatGPT to help me draft explanations, stories, and rationales for my data visualization and project descriptions. The AI’s ability to generate coherent and contextually relevant text significantly aided in articulating my thoughts clearly and effectively."
+  },
+  {
+    "objectID": "reflection.html#how-gen-ai-tools-helped-me",
+    "href": "reflection.html#how-gen-ai-tools-helped-me",
+    "title": "Reflection on the use of GenAI Tools",
+    "section": "How Gen AI Tools Helped Me",
+    "text": "How Gen AI Tools Helped Me\nThe GenAI tools, particularly ChatGPT, played a crucial role in assisting me with various aspects of this assessment. Firstly, it helped me overcome writer’s block by providing initial drafts and ideas that I could then refine and personalize. This was especially useful when explaining complex concepts related to my project and data visualization. Additionally, the AI’s suggestions helped improve the clarity and flow of my writing, making it more engaging for readers. Overall, the use of GenAI tools allowed me to focus more on the content’s quality rather than getting bogged down by the writing process itself."
+  },
+  {
+    "objectID": "reflection.html#benefits-and-challenges-of-using-genai-tools",
+    "href": "reflection.html#benefits-and-challenges-of-using-genai-tools",
+    "title": "Reflection on the use of GenAI Tools",
+    "section": "Benefits and Challenges of Using GenAI Tools",
+    "text": "Benefits and Challenges of Using GenAI Tools\nUsing GenAI tools like ChatGPT offered several benefits. One of the main advantages was the time saved in drafting and organizing my thoughts. The AI provided a solid foundation that I could build upon, allowing me to complete the assessment more efficiently. Furthermore, the AI’s ability to generate diverse perspectives and ideas enriched my content, making it more comprehensive. However, there were also challenges associated with using GenAI tools. One challenge was ensuring that the generated content accurately reflected my personal experiences and insights. I had to carefully review and edit the AI-generated text to ensure authenticity and relevance. Additionally, there were instances where the AI’s suggestions were not entirely accurate or contextually appropriate, requiring me to exercise critical judgment in selecting and modifying the content."
+  },
+  {
+    "objectID": "data-visualization.html#visualization-image",
+    "href": "data-visualization.html#visualization-image",
+    "title": "Data Visualization",
+    "section": "Visualization Image",
+    "text": "Visualization Image\n :::"
+  },
+  {
+    "objectID": "data-visualization.html#what-is-visualize",
+    "href": "data-visualization.html#what-is-visualize",
+    "title": "Data Visualization",
+    "section": "What is Visualize?",
+    "text": "What is Visualize?\nThis visualise the Daily Closing Price vs the Simple Moving Average Visualization of Nvdia stocks over the course of 6 months in 2023. The Simple Moving Average (SMA) is a widely used technical indicator in stock market analysis that helps smooth out price data by creating a constantly updated average price. It is calculated by taking the average of a selected range of prices, usually closing prices, over a specified number of periods. On the other hand, the Daily Closing Price represents the final price at which a stock is traded on a given trading day. It is a crucial data point for investors and traders as it reflects the market’s sentiment and can influence future price movements."
+  },
+  {
+    "objectID": "data-visualization.html#explanation-of-the-visualization",
+    "href": "data-visualization.html#explanation-of-the-visualization",
+    "title": "Data Visualization",
+    "section": "Explanation of the Visualization",
+    "text": "Explanation of the Visualization\nIn this visualization, we can observe the relationship between the Daily Closing Price and the Simple Moving Average (SMA) of Nvidia stocks over a six-month period in 2023. The blue line represents the Daily Closing Price, while the orange line represents the Simple Moving Average. The SMA line smooths out the fluctuations in the Daily Closing Price, providing a clearer view of the overall trend. When the Daily Closing Price crosses above the SMA line, it may indicate a potential bullish trend, suggesting that the stock’s price is gaining momentum. Conversely, when the Daily Closing Price crosses below the SMA line, it may signal a bearish trend, indicating that the stock’s price is losing momentum.\n#Story Behind the Visualization The story behind this visualization is to provide investors and traders with insights into the performance of Nvidia stocks over a specific period. By analyzing the relationship between the Daily Closing Price and the Simple Moving Average, market participants can make informed decisions about buying or selling Nvidia stocks. The visualization highlights key moments when the Daily Closing Price crosses the SMA line, which can serve as potential entry or exit points for traders. Overall, this visualization aims to enhance understanding of stock price movements and assist in making strategic investment decisions."
+  },
+  {
+    "objectID": "Project.html",
+    "href": "Project.html",
+    "title": "FYP Project",
+    "section": "",
+    "text": "Hand Detection System *"
+  },
+  {
+    "objectID": "Project.html#project-title",
+    "href": "Project.html#project-title",
+    "title": "FYP Project",
+    "section": "",
+    "text": "Hand Detection System *"
   }
 ]
